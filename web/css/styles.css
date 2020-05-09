@@ -1,0 +1,42 @@
+body {
+    margin: 0px!important;
+    font-family: Arial,sans-serif;
+}
+
+.content {
+    margin-left: 350px;
+    width: auto;
+    padding: 10px;
+}
+
+.perfil-image {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.perfil-image img {
+    width: 250px;
+    border-radius: 50%;
+    border: 2px solid  rgb(147, 147, 197);
+}
+
+.social-media {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.social-media img{
+    width: 40px;
+    margin: 0px 10px 0px 10px;
+}
+
+.description {
+    text-align: center;
+    padding: 0px 80px 0px 80px;
+}
+
+.description p {
+    font-size: 24px;
+    color: rgb(95, 90, 90);
+}
+

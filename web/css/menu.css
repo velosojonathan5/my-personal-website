@@ -1,0 +1,33 @@
+.menu {
+    background-color: rgb(147, 147, 197);
+    width: 350px;
+    position: fixed;
+    height: 100%;
+}
+
+.menu .itens{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    font-size: 27px;
+    line-height: 35px;
+    color: azure;
+}
+
+.menu a:hover {
+    color: aqua;
+}
+
+.menu .menu-footer {
+    position: relative;
+    margin-top: 550px;
+    color: azure;
+    text-align: center;
+}
+
