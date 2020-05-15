@@ -23,6 +23,7 @@
 
 .menu a:hover {
     color: #C6C4FF;
+    text-decoration: underline;
 }
 
 .menu .menu-footer {
