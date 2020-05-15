@@ -1,5 +1,5 @@
 .menu {
-    background-color: rgb(147, 147, 197);
+    background-color: #4744B3;
     width: 350px;
     position: fixed;
     height: 100%;
@@ -18,17 +18,21 @@
     text-decoration: none;
     font-size: 27px;
     line-height: 35px;
-    color: azure;
+    color: #FFF;
 }
 
 .menu a:hover {
-    color: aqua;
+    color: #C6C4FF;
 }
 
 .menu .menu-footer {
     position: relative;
-    margin-top: 550px;
-    color: azure;
+    margin-top: 530px;
+    color: #FFF;
     text-align: center;
+}
+
+.menu .menu-footer img {
+    width: 15px;
 }
 

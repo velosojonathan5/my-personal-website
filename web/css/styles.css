@@ -6,7 +6,9 @@ body {
 .content {
     margin-left: 350px;
     width: auto;
-    padding: 10px;
+    padding: 0.5px;
+    font-size: 24px;
+    
 }
 
 .perfil-image {
@@ -17,7 +19,7 @@ body {
 .perfil-image img {
     width: 250px;
     border-radius: 50%;
-    border: 2px solid  rgb(147, 147, 197);
+    border: 2px solid #4744B3;
 }
 
 .social-media {
@@ -30,13 +32,21 @@ body {
     margin: 0px 10px 0px 10px;
 }
 
-.description {
+#description {
     text-align: center;
     padding: 0px 80px 0px 80px;
+    color: rgb(95, 90, 90);
 }
 
-.description p {
-    font-size: 24px;
-    color: rgb(95, 90, 90);
+#experiencia {
+    color: #4744B3;
+    padding: 40px;
+    margin-top: 80px;
+    background-color: #C6C4FF;
+}
+
+#experiencia .periodo-trabalho {
+    font-size: 18px;
+    font-style: italic;
 }
 
