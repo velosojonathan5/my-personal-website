@@ -75,9 +75,10 @@ body {
 }
 
 #footer {
-    color: #B3A254;
+    color: #4744B3;
     padding: 40px;
     margin-top: 80px;
     background-color: #AEABFF;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
 }
